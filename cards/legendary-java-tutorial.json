@@ -1,6 +1,5 @@
 {
-  "name": "Учебный аккаунт JavaRush",
+  "name": "Учебный аккаунт курса: карточка из ветки",
   "profile": "https://github.com/legendary-java-tutorial",
-  "project": "https://github.com/legendary-java-tutorial/guess-number",
-  "stack": "Git, GitHub, Markdown"
+  "project": "https://github.com/legendary-java-tutorial/course2026-gh36-card"
 }
